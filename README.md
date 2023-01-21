@@ -23,7 +23,7 @@ hello guys this is a installation guide for ubuntu + there is a guide for virtua
 
 1. first bootable the USB drive.👇
 
-![first step](https://assets.ubuntu.com/v1/a40f15d2-select-iso.png?_ga=2.100016350.152429071.1674276244-235291734.1674276244)
+![1](https://assets.ubuntu.com/v1/a40f15d2-select-iso.png?_ga=2.100016350.152429071.1674276244-235291734.1674276244)
 
 
 2.now it's the time for booting into USB drive .
@@ -34,9 +34,26 @@ Insert the USB flash drive into the laptop or PC you want to use to install Ubun
 
 if you done it perfectly you will see this welcoming screen.👇
 
-![second step](https://assets.ubuntu.com/v1/6855ab78-welcome-screen.png?_ga=2.95749340.152429071.1674276244-235291734.1674276244)
+![2](https://assets.ubuntu.com/v1/6855ab78-welcome-screen.png?_ga=2.95749340.152429071.1674276244-235291734.1674276244)
 
 
 => note: press " install ubuntu " and then chosse you keyboard language 
 
-![3 step](https://assets.ubuntu.com/v1/47f9c406-select-keyboard-layout.png)
+![2.1](https://assets.ubuntu.com/v1/47f9c406-select-keyboard-layout.png)
+
+
+
+3. Installation Setup
+
+Next, you will be prompted to choose between the Normal installation and Minimal installation options. The minimal installation is useful for those with smaller hard drives or who don’t require as many pre-installed applications.
+
+In Other options, you will be prompted to download updates as well as third-party software that may improve device support and performance (for example, Nvidia graphics drivers) during the installation. It is recommended to check both of these boxes.
+
+If you are not currently connected to the internet, you will be prompted to do so at this point. Ensure you are able to remain connected throughout the installation.
+
+
+
+
+[3](https://assets.ubuntu.com/v1/e2bd1af8-download-updates.png)
+
+
