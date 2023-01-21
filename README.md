@@ -19,7 +19,7 @@ hello guys this is a installation guide for ubuntu + there is a guide for virtua
 
 ****
 
-#### simple ubuntu installation
+#### simple ubuntu installation 
 
 1. first bootable the USB drive.👇
 
@@ -54,6 +54,24 @@ If you are not currently connected to the internet, you will be prompted to do s
 
 
 
-[3](https://assets.ubuntu.com/v1/e2bd1af8-download-updates.png)
+![3](https://assets.ubuntu.com/v1/e2bd1af8-download-updates.png)
+
+
+
+4. Install Ubuntu desktop (**warning this step can crash your coumputer !!**) 
+
+
+This screen allows you to configure your installation. If you would like Ubuntu to be the only operating system on your device, select Erase disk and install Ubuntu.
+
+
+![4](https://assets.ubuntu.com/v1/b1fba537-installation-type.png)
+
+
+If you are happy to continue the installation without enabling encryption, click Install Now and confirm the changes with Continue. Otherwise keep reading.
+
+
+![4.1](https://assets.ubuntu.com/v1/930ca887-continue-installation.png)
+
+
 
 
