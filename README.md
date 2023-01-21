@@ -73,5 +73,92 @@ If you are happy to continue the installation without enabling encryption, click
 ![4.1](https://assets.ubuntu.com/v1/930ca887-continue-installation.png)
 
 
+5. (Optional) Enable Encryption 
+
+
+
+If you would like to encrypt your device, select Advanced features… > Use LVM with the new Ubuntu installation > Encrypt the new Ubuntu installation for security.
+
+![5](https://assets.ubuntu.com/v1/e5fba058-select-advanced-features.png)
+
+
+
+=>note: LVM stands for Logical Volume Management. By using LVM during the setup, it makes it easier to create and manage partitions post installation.
+
+You will be prompted to create a security key once you click Install Now.
+
+=>warrining: If you select encryption, it is important that you do not lose your security key! Write it down and store it in a safe place outside of your local system. You will not be able to recover your data without it!
+
+
+
+![5.1](https://assets.ubuntu.com/v1/f07fd75e-choose-security-key.png)
+
+
+
+
+
+Click Install Now and confirm the changes with Continue.
+
+
+
+6. Choose your Location
+
+
+
+
+Select your location and timezone from the map screen and click Continue. This information will be detected automatically if you are connected to the internet.
+
+
+
+
+
+![6](https://assets.ubuntu.com/v1/5f9e0960-select-location.png)
+
+
+
+7. Create Your Login Details
+
+
+On this screen, you will be prompted to enter your name and the name of your computer as it will appear on the network. Finally, you will create a username and a strong password.
+
+You can choose to log in automatically or require a password. If you are using your device whilst travelling, it’s recommended to keep automatic login disabled.
+
+
+![7](https://assets.ubuntu.com/v1/422d18ea-login-details.png)
+
+
+
+
+9. Complete the Installation
+
+Now sit back and enjoy the slideshow as Ubuntu installs in the background! 🙂
+
+![9](https://assets.ubuntu.com/v1/fcf704b0-complete-installation.png)
+
+
+Once the installation has completed, you will be prompted to restart your machine.
+
+Click Restart Now.
+
+
+![9.1](https://assets.ubuntu.com/v1/31c17132-restart-now.png)
+
+
+When you restart, you will be prompted to remove your USB flash drive from the device. Once you’ve done this, press ENTER.
+
+
+![9.2](https://assets.ubuntu.com/v1/1588da56-remove-usb.png)
+
+
+Enter your password on the login screen (assuming you selected that option when creating your login details).
+
+
+And that’s it, welcome to your new Ubuntu Desktop!
+
+
+![9.3](https://assets.ubuntu.com/v1/7c1184d1-welcome.png)
+
+
+
 
 
