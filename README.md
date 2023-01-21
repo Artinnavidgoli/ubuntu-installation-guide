@@ -38,3 +38,5 @@ if you done it perfectly you will see this welcoming screen.👇
 
 
 => note: press " install ubuntu " and then chosse you keyboard language 
+
+![3 step](https://assets.ubuntu.com/v1/47f9c406-select-keyboard-layout.png)
