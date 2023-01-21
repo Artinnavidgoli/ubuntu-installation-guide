@@ -11,6 +11,6 @@ hello guys this is a installation guide for ubuntu + there is a guide for virtua
 
 - A flash drive (8GB as a minimum, 12GB or above recommended and keep in mind using usb 3.0 is a faster installation).
 
-- A ubuntu ISO file that you can download from [here](https://ubuntu.com/download/desktop) . (use LTS version if you don't want to have crazy problems)
+- A ubuntu ISO file that you can download from [here](https://ubuntu.com/download/desktop) . (use LTS version if you don't want to have crazy problems 😵‍💫)
 
-*-note: if you want to do virtual installation you don't need a flash drive*
+*-note: if you want to do virtual installation you don't need a flash drive but you will need a *
