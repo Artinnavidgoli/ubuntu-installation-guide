@@ -13,7 +13,12 @@ hello guys this is a installation guide for ubuntu + there is a guide for virtua
 
 - A ubuntu ISO file that you can download from [here](https://ubuntu.com/download/desktop) . (use LTS version if you don't want to have crazy problems 😵‍💫)
 
+- Download [rufus](https://rufus.ie/en/) or [balena etcher](https://www.balena.io/etcher)
 
-** note: if you want to do virtual installation you don't need a flash drive but you will need a softwere like vmwere or virtualbox **
+=> note: if you want to do virtual installation you don't need a flash drive but you will need a softwere like vmwere or virtualbox 
+
+****
+
+#### simple ubuntu installation
 
 
