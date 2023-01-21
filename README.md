@@ -1,4 +1,10 @@
 # ubuntu-installation-guide
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:art.1387.na@gmail.com)](mailto:art.1387.na@gmail.com)
+![](https://dcbadge.vercel.app/api/shield/1010448380280983552?style=flat&theme=compact=true?theme=default)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/artin.navidgoli/)](https://space.bilibili.com/7708412)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/7708412)](https://github.com/Artinnavidgoli)
+
+
 hello guys this is a installation guide for ubuntu + there is a guide for virtual installation and dual-boot installation guide too 😀
 
 ****
