@@ -21,4 +21,8 @@ hello guys this is a installation guide for ubuntu + there is a guide for virtua
 
 #### simple ubuntu installation
 
+1. first bootable the USB drive.👇
+
+![first step](https://assets.ubuntu.com/v1/a40f15d2-select-iso.png?_ga=2.100016350.152429071.1674276244-235291734.1674276244)
+
 
