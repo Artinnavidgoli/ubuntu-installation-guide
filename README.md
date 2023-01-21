@@ -165,6 +165,9 @@ And that’s it, welcome to your new Ubuntu Desktop!
 ![9.3](https://assets.ubuntu.com/v1/7c1184d1-welcome.png)
 
 
+****
+I'M WORKING ON THIS SO IT'S NOT FINNISH THE TWO OTHER GUIDE BUT THIS ONE IS READY SO ENJOY
+
 
 
 
