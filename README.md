@@ -26,3 +26,15 @@ hello guys this is a installation guide for ubuntu + there is a guide for virtua
 ![first step](https://assets.ubuntu.com/v1/a40f15d2-select-iso.png?_ga=2.100016350.152429071.1674276244-235291734.1674276244)
 
 
+2.now it's the time for booting into USB drive .
+
+Insert the USB flash drive into the laptop or PC you want to use to install Ubuntu and boot or restart the device. It should recognise the installation media automatically. If not, try holding F12 during startup and selecting the USB device from the system-specific boot menu.
+
+=> note: F12 is the most common key for bringing up your system’s boot menu, but Escape, F2 and F10 are common alternatives. If you’re unsure, look for a brief message when your system starts – this will often inform you of which key to press to bring up the boot menu. (keep in mind that I have a lenovo laptop so ,the boot menu for lenovo is F12)
+
+if you done it perfectly you will see this welcoming screen.👇
+
+![second step](https://assets.ubuntu.com/v1/6855ab78-welcome-screen.png?_ga=2.95749340.152429071.1674276244-235291734.1674276244)
+
+
+=> note: press " install ubuntu " and then chosse you keyboard language 
