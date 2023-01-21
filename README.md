@@ -9,13 +9,13 @@ hello guys this is a installation guide for ubuntu + there is a guide for virtua
 
 - The ram (memmory) need to be at least 4GB . (my recommendation is to use at least 8GB)
 
-- A flash drive (8GB as a minimum, 12GB or above recommended and keep in mind using usb 3.0 is a faster installation).
+- A flash drive or a DVD disk .the installation guid for installing from a DVD is [here](https://ubuntu.com/tutorials/burn-a-dvd-on-windows#1-overview).(8GB as a minimum, 12GB or above recommended and keep in mind using usb 3.0 is a faster installation).
 
 - A ubuntu ISO file that you can download from [here](https://ubuntu.com/download/desktop) . (use LTS version if you don't want to have crazy problems 😵‍💫)
 
 - Download [rufus](https://rufus.ie/en/) or [balena etcher](https://www.balena.io/etcher)
 
-=> note: if you want to do virtual installation you don't need a flash drive but you will need a softwere like vmwere or virtualbox 
+=> note: if you want to do virtual installation you don't need a flash drive (or Create bootable USB drives) but ,you'll need a softwere like vmwere or virtualbox .
 
 ****
 
